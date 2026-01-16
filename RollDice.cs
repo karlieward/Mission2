@@ -1,5 +1,6 @@
 namespace Mission2;
 
+// second class to roll the dice and them together for total and send back to first class
 public class RollDice
 {
     public int[] SimulateRolls(int numRolls)

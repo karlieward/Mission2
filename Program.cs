@@ -1,8 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// Karlie Ward : dice simulation of rolled 2 die and printing out a histogram of results
 using System;
 
 namespace Mission2;
 
+// class with Main method to gather information from user, pass to second class, and get results back for printing
 internal class Program
 {
     public static void Main(string[] args)
