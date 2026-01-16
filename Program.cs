@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-// Karlie Ward : dice simulation of rolled 2 die and printing out a histogram of results
+// Karlie Ward : dice simulation of rolling 2 die and printing out a histogram of results
 using System;
 
 namespace Mission2;
