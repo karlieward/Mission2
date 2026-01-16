@@ -1,0 +1,14 @@
+/Users/karlieward/RiderProjects/Mission2/bin/Debug/net10.0/Mission2
+/Users/karlieward/RiderProjects/Mission2/bin/Debug/net10.0/Mission2.deps.json
+/Users/karlieward/RiderProjects/Mission2/bin/Debug/net10.0/Mission2.runtimeconfig.json
+/Users/karlieward/RiderProjects/Mission2/bin/Debug/net10.0/Mission2.dll
+/Users/karlieward/RiderProjects/Mission2/bin/Debug/net10.0/Mission2.pdb
+/Users/karlieward/RiderProjects/Mission2/obj/Debug/net10.0/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karlieward/RiderProjects/Mission2/obj/Debug/net10.0/Mission2.AssemblyInfoInputs.cache
+/Users/karlieward/RiderProjects/Mission2/obj/Debug/net10.0/Mission2.AssemblyInfo.cs
+/Users/karlieward/RiderProjects/Mission2/obj/Debug/net10.0/Mission2.csproj.CoreCompileInputs.cache
+/Users/karlieward/RiderProjects/Mission2/obj/Debug/net10.0/Mission2.dll
+/Users/karlieward/RiderProjects/Mission2/obj/Debug/net10.0/refint/Mission2.dll
+/Users/karlieward/RiderProjects/Mission2/obj/Debug/net10.0/Mission2.pdb
+/Users/karlieward/RiderProjects/Mission2/obj/Debug/net10.0/Mission2.genruntimeconfig.cache
+/Users/karlieward/RiderProjects/Mission2/obj/Debug/net10.0/ref/Mission2.dll
